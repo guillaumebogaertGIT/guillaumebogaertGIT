@@ -8,8 +8,3 @@ Computer Science student at Lincoln Memorial University.
 - 🔄 Working on a Java-to-C++ translator
 - 🤖 Interested in Software Engineering and AI
 
-## GitHub Stats
-
-![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaumebogaertGIT&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebogaertGIT&layout=compact)
