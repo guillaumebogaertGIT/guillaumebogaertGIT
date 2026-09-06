@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Guillaume 👋
 
-<!--
-**guillaumebogaertGIT/guillaumebogaertGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Lincoln Memorial University.
 
-Here are some ideas to get you started:
+- 💻 Currently learning Java
+- 🏋️ Building the CAP fitness/coaching app
+- 🔄 Working on a Java-to-C++ translator
+- 🎯 Interested in Software Engineering and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![Guillaume's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillaumebogaertGIT&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebogaertGIT&layout=compact)
